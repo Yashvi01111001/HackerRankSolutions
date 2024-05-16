@@ -19,4 +19,9 @@ print(mean_result)
 print(var_result)
 print(std_result)
 
+# # INPUT:
+# 2 2
+# 1 2
+# 3 4
+
 #--------Yashvi Bhadania--------

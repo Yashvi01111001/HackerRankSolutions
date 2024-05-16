@@ -17,4 +17,9 @@ det_result = numpy.linalg.det(matrix)
 rounded_det_result = round(det_result, 2)
 print(rounded_det_result)
 
+# # INPUT:
+# 2
+# 1.1 1.1
+# 1.1 1.1
+
 #--------Yashvi Bhadania--------

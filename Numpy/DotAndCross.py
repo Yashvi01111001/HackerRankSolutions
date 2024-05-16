@@ -25,7 +25,7 @@ matrix2 = np.array(matrix2)
 result = np.dot(matrix1, matrix2)
 print(result)
 
-# INPUT:
+# #INPUT:
 # 2
 # 1 2
 # 3 4
