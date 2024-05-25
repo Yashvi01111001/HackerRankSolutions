@@ -12,5 +12,7 @@ print(inner_prod_result)
 outer_prod_result = numpy.outer(matrix[0], matrix[1])
 print(outer_prod_result)
 
-
+# # INPUT:
+# 0 1
+# 2 3
 #--------Yashvi Bhadania--------
