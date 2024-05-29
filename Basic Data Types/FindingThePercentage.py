@@ -24,7 +24,6 @@ for name, scores in student_marks.items():
         print(formatted_score)
 
 
-
 # # INPUT:
 # 2
 # Harsh 25 26.5 28
