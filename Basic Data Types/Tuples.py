@@ -6,7 +6,7 @@ integer_tuple = tuple(integer_list)
 result = hash(integer_tuple)
 print(result)
 
-
+# NOTE: under the 'Language' dropdown select Pypy3
 # # INPUT:
 # 2
 # 1 2
