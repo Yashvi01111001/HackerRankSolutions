@@ -1,5 +1,3 @@
-#SRC: https://www.hackerrank.com/challenges/py-set-union/problem?isFullScreen=true 
-
 # Enter your code here. Read input from STDIN. Print output to STDOUT
 
 n = int(input())
