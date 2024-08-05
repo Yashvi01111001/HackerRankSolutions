@@ -13,6 +13,7 @@ money = 0
 for size, price in desired_sizes:
     if size in available_sizes:
         money += price
+        # removing the size from the available_sizes list:
         available_sizes.remove(size)
         # print(available_sizes)
 print(money)
