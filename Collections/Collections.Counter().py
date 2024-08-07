@@ -9,6 +9,7 @@ desired_sizes = [list(map(int, input().split())) for _ in range(N)]
 
 available_sizes_cntr = Counter(available_sizes).items()
 
+# Initialize money to zero:
 money = 0
 for size, price in desired_sizes:
     if size in available_sizes:
