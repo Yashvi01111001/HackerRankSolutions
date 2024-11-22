@@ -22,3 +22,5 @@ print(" ".join(result))
 # 2 5 4
 # 3 7 8 9 
 # 5 5 7 8 9 10 
+
+#--------Yashvi Bhadania--------
