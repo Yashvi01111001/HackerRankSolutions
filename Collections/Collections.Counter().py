@@ -31,4 +31,4 @@ print(money)
 # 18 60
 # 10 50
 
-#--------Byy Yashvi Bhadania--------
+#--------By Yashvi Bhadania--------
