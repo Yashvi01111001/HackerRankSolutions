@@ -21,7 +21,9 @@ for _ in range(N):
         my_deque.popleft()
         
 print(*my_deque)  
-# The asterisk (*), when used before an iterable (like a list, tuple, or deque) in a function call, performs unpacking. It takes the elements of the iterable and passes them to the function as separate arguments.
+# The asterisk (*), when used before an iterable (like a list, tuple, or 
+# deque) in a function call, performs unpacking. It takes the elements of 
+# the iterable and passes them to the function as separate arguments.
 
 # # SAMPLE INPUT:
 # 6
