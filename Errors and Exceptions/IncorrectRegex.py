@@ -10,6 +10,8 @@ for i in range(n):
         print('False') 
 
 # # SAMPLE INPUT:
-# 08 05 2015
+# 2
+# .*\+
+# .*+
 
 #--------Yashvi Bhadania--------

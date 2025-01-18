@@ -13,6 +13,9 @@ for _ in range(T):
         print("Error Code:",e)
 
 # # SAMPLE INPUT:
-# 08 05 2015
+# 3
+# 1 0
+# 2 $
+# 3 1
 
 #--------Yashvi Bhadania--------
