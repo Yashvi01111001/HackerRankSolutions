@@ -1,0 +1,8 @@
+
+# # SAMPLE INPUT:
+# 3
+# lara@hackerrank.com
+# brian-23@hackerrank.com
+# britts_54@hackerrank.com
+
+#--------Yashvi Bhadania--------
