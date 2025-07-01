@@ -12,7 +12,7 @@ print(numpy.transpose(my_array))
 my_array = numpy.array(my_array)
 print(my_array.flatten())
 
-# # INPUT:
+# # SAMPLE INPUT:
 # 2 2
 # 1 2
 # 3 4
